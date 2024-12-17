@@ -13,7 +13,7 @@ class UserController extends Controller
      */
     public function index()
     {
-        //
+        dd("Hello, this is the userController");
     }
 
     /**
